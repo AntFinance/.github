@@ -80,7 +80,6 @@ We believe in the power of community and welcome contributions from developers o
 1. Check out our [Contributing Guidelines](CONTRIBUTING.md)
 2. Review our [Code of Conduct](CODE_OF_CONDUCT.md)
 3. Browse our [Good First Issues](https://github.com/antfinance/antfinance/labels/good%20first%20issue)
-4. Join our [Discord Community](https://discord.gg/antfinance)
 
 ## 📚 Resources
 
