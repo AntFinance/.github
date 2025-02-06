@@ -95,10 +95,9 @@ Security is at the core of everything we do. We follow industry best practices a
 
 ## 📫 Contact Us
 
-- 💼 [Careers Page](https://antfinance.app/careers)
-- 📧 [dev@antfinance.app](mailto:dev@antfinance.app)
-- 🐦 [@AntFinanceDev](https://twitter.com/AntFinanceDev)
-- 💬 [Discord Community](https://discord.gg/antfinance)
+- 💼 [Careers Page](ant@antfinance.app)
+- 📧 [ant@antfinance.app)](mailto:ant@antfinance.app))
+- 🐦 [@AntFinance](https://twitter.com/AntFinance)
 
 ## 📈 Project Stats
 
