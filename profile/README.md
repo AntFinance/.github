@@ -9,7 +9,7 @@
 
 **Building the future of financial intelligence, one insight at a time.**
 
-[Join Us](https://antfinance.app/careers) • [Documentation](https://docs.antfinance.app) • [Blog](https://blog.antfinance.app)
+[App](https://antfinance.app) • [Join Team](https://antfinance.app/careers) • [Documentation](https://docs.antfinance.app) • [Blog](https://blog.antfinance.app)
 
 </div>
 
