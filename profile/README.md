@@ -11,7 +11,7 @@ APP Launching Q2 2025!!
 
 **Building the future of financial intelligence, one insight at a time.**
 
-[App](https://antfinance.app) • [Join Team](https://antfinance.app/careers) • [Documentation](https://docs.antfinance.app) • [Blog](https://blog.antfinance.app)
+[App](https://www.antfinance.app) • [Join Team](https://antfinance.app/careers) • [Documentation](https://docs.antfinance.app) • [Blog](https://blog.antfinance.app)
 
 </div>
 
