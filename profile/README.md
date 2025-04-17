@@ -104,7 +104,7 @@ Security is at the core of everything we do. We follow industry best practices a
 
 <div align="center">
 
-![GitHub Stars](https://img.shields.io/github/stars/antfinance/antfinance?style=social)
+![GitHub Stars](https://github.com/AntFinance/docs)
 ![GitHub Forks](https://img.shields.io/github/forks/antfinance/antfinance?style=social)
 ![GitHub Issues](https://img.shields.io/github/issues/antfinance/antfinance)
 ![GitHub Pull Requests](https://img.shields.io/github/issues-pr/antfinance/antfinance)
