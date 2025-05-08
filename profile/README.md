@@ -1,7 +1,5 @@
 # 🐜 Ant Finance LLC
 
-APP Launching Q2 2025!!
-
 <div align="center">
 
 [![Made with React](https://img.shields.io/badge/Made_with-React-61DAFB.svg?logo=react&logoColor=white)](https://reactjs.org)
