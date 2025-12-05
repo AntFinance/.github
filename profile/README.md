@@ -8,10 +8,11 @@
 
 [![Website](https://img.shields.io/badge/🌐_Website-antfinance.app-1a5d1a?style=for-the-badge)](https://antfinance.app)
 [![Reddit](https://img.shields.io/badge/Reddit-r%2Fantfinance-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/r/antfinance)
-[![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/antfinance)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ant_Finance-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/antfinance)
+[![Twitter](https://img.shields.io/badge/Twitter-@antfinanceapp-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/antfinanceapp)
 
-![Active Members](https://img.shields.io/badge/Members-8,228+-4caf50?style=flat-square)
-![Assets Tracked](https://img.shields.io/badge/Assets_Tracked-$487M+-1890ff?style=flat-square)
+![Active Members](https://img.shields.io/badge/Members-823+-4caf50?style=flat-square)
+![Assets Tracked](https://img.shields.io/badge/Assets_Tracked-$48.7M+-1890ff?style=flat-square)
 ![Rating](https://img.shields.io/badge/Rating-4.9%2F5-faad14?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-100%25_Free-52c41a?style=flat-square)
 
@@ -132,7 +133,7 @@ Anonymous peer benchmarking for motivation without compromising privacy
 
 [Join Reddit](https://reddit.com/r/antfinance)
 
-[Report Bugs](../../issues)
+[Report Bugs](https://antfinance.app/contact)
 
 </td>
 <td width="33%" align="center">
@@ -185,39 +186,39 @@ Anonymous peer benchmarking for motivation without compromising privacy
 
 ```mermaid
 gantt
-    title Product Roadmap 2025
+    title Product Roadmap 2026
     dateFormat  YYYY-MM
-    section Q1 2025
-    Mobile App (iOS + Android)           :2025-01, 3M
-    ML Transaction Categorization        :2025-01, 3M
-    Advanced Goal Tracking               :2025-02, 2M
-    section Q2 2025
-    AI Financial Coaching                :2025-04, 3M
-    Bill Negotiation Automation          :2025-05, 2M
-    International Expansion              :2025-06, 1M
-    section Future
-    Automated Tax Preparation            :2025-07, 3M
-    Portfolio Rebalancing                :2025-08, 2M
-    Open Banking API                     :2025-09, 3M
+    section Q1 2026
+    Additional Bank Integrations         :2026-01, 3M
+    Custom Dashboard Builder             :2026-02, 2M
+    Basic AI Analytics Engine            :2026-03, 1M
+    section Q2 2026
+    Advanced AI Insights                 :2026-04, 3M
+    Real-time Alerts System              :2026-05, 2M
+    International Bank Support           :2026-06, 1M
+    section Q3 2026
+    Predictive AI Analytics              :2026-07, 3M
+    Widget Marketplace                   :2026-08, 2M
+    API for Third-party Integrations     :2026-09, 1M
 ```
 
 <details>
 <summary><strong>📅 Detailed Timeline</strong></summary>
 
-### Q1 2025 🚀
-- ✅ Mobile app (iOS + Android)
-- ✅ Enhanced transaction categorization with ML
-- ✅ Advanced goal tracking
+### Q1 2026 🏦
+- 🔗 **Additional Bank Integrations** - Expand support for credit unions, regional banks, and fintech platforms
+- 🎨 **Custom Dashboard Builder** - Drag-and-drop widgets, personalized layouts, and saved views
+- 🤖 **Basic AI Analytics** - Spending pattern recognition and anomaly detection
 
-### Q2 2025 🎯
-- 🤖 AI-powered financial coaching
-- 💰 Bill negotiation automation
-- 🌍 International expansion
+### Q2 2026 🚀
+- 📊 **Advanced AI Insights** - Predictive budgeting, savings recommendations, and goal optimization
+- 🔔 **Real-time Alerts** - Smart notifications for unusual activity, bill reminders, and goal milestones
+- 🌍 **International Banks** - Support for European, Canadian, and Australian financial institutions
 
-### Long-term 🔮
-- 📊 Automated tax preparation
-- 💼 Portfolio rebalancing tools
-- 🔌 Open banking API for developers
+### Q3 2026 🔮
+- 🧠 **Predictive AI Analytics** - Financial forecasting, risk assessment, and personalized strategies
+- 🛠️ **Widget Marketplace** - Community-created dashboard components and templates
+- 🔌 **Developer API** - Open platform for third-party integrations and custom tools
 
 </details>
 
@@ -230,19 +231,19 @@ gantt
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Members-8,228+-4caf50?style=for-the-badge" alt="Members"/><br/>
+<img src="https://img.shields.io/badge/Members-823+-4caf50?style=for-the-badge" alt="Members"/><br/>
 <strong>Active Members</strong><br/>
 <sub>Building wealth together</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Assets-$487M+-1890ff?style=for-the-badge" alt="Assets"/><br/>
+<img src="https://img.shields.io/badge/Assets-$48.7M+-1890ff?style=for-the-badge" alt="Assets"/><br/>
 <strong>Assets Tracked</strong><br/>
 <sub>Across the platform</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/Rating-4.9%2F5-faad14?style=for-the-badge" alt="Rating"/><br/>
 <strong>User Rating</strong><br/>
-<sub>Trusted by thousands</sub>
+<sub>Trusted by hundreds</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/Free-100%25-52c41a?style=for-the-badge" alt="Free"/><br/>
@@ -263,7 +264,7 @@ gantt
 [![Reddit](https://img.shields.io/badge/Reddit-r%2Fantfinance-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/r/antfinance)
 [![Twitter](https://img.shields.io/badge/Twitter-@antfinanceapp-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/antfinanceapp)
 [![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/antfinance)
-[![Email](https://img.shields.io/badge/Email-ant@antfinance.com-1a5d1a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ant@antfinance.com)
+[![Email](https://img.shields.io/badge/Email-ant@antfinance.com-1a5d1a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ant@antfinance.app)
 
 </div>
 
@@ -285,7 +286,7 @@ gantt
 
 ### Built with 💚 by the Ant Finance team
 
-**Join 8,228+ members building wealth together**
+**Join 823+ members building wealth together**
 
 [![Get Started](https://img.shields.io/badge/Get_Started-Free_Forever-1a5d1a?style=for-the-badge)](https://antfinance.app)
 [![Documentation](https://img.shields.io/badge/Read-Documentation-4caf50?style=for-the-badge)](https://docs.antfinance.app)
@@ -293,6 +294,6 @@ gantt
 
 ---
 
-<sub>© 2024 Ant Finance LLC. All rights reserved. | Making financial freedom accessible to everyone.</sub>
+<sub>© 2024-2026 Ant Finance LLC. All rights reserved. | Making financial freedom accessible to everyone.</sub>
 
 </div>
